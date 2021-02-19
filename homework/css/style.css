@@ -1,0 +1,11 @@
+* {
+    padding: 8px 4px;
+}
+
+/* #form input {
+    width: 100%;
+} */
+
+#pets input{ 
+    width: 0;
+}
